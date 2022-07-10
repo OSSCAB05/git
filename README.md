@@ -1,2 +1,2 @@
-윤상준
+visualpython_멘티_윤상준
 Backend.ai_멘티_재원
